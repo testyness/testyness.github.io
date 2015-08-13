@@ -429,3 +429,7 @@ th {
 *:after {
     box-sizing: border-box;
 }
+
+.gallery-cell {
+  width: 100%;
+}
