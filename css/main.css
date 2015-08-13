@@ -442,3 +442,8 @@ th {
 .col-1-2 {
   width: 50%;
 }
+
+.col img {
+  max-width: 100%;
+  height: auto;
+}
